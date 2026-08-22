@@ -1,10 +1,15 @@
-# Daniel-Ferreira-dos-Santos
-#Estudante de Ciência da Computação, aspirante por tecnologia e por todo tipo de gênero de video games, sonha em poder seguir a área de desenvolvedor de programas comuns, hacker ético, engenharia reversa e de trabalhar na indústria de jogos
+### Daniel Ferreira dos Santos
 
-#*Formação acadêmica*
-#*Cursando ciência da computação
-#*formado em montagem e manutenção de computador
-#*Formação em Informática Avançada
+### Estudante de Ciência da Computação | Aspirante por Tecnologia | Desenvolvimento de Jogos
 
-#*Desenvolvimento*
-#*Atualmente desenvolvendo um projeto de jogo secreto
+Estudante de Ciência da Computação, aspirante por tecnologia e por todo tipo de gênero de video games. Tenho o sonho de poder seguir a área de desenvolvedor de programas comuns, hacker ético, engenharia reversa e de trabalhar na indústria de jogos. 
+
+### Formação Acadêmica
+
+* **Cursando Ciência da Computação**
+* **Formado em montagem e manutenção de computadores**
+* **Formação em informática avançada**
+
+### Projetos Atuais
+
+* **Atualmente desenvolvendo um projeto de jogo secreto**

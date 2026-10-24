@@ -32,5 +32,5 @@ Estudante de **Ciência da Computação**, apaixonado por tecnologia, hacking é
 ---
 
 ### 📫 Como me encontrar
-* **E-mail:** daniel.inazumaleeven@gmail.com[cite: 8]
-* **GitHub:** [DanielFerreiradosSantos](https://github.com/DanielFerreiradosSantos)[cite: 8]
+* **E-mail:** daniel.inazumaleeven@gmail.com
+* **GitHub:** [DanielFerreiradosSantos](https://github.com/DanielFerreiradosSantos)

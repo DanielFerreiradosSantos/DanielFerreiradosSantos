@@ -1,4 +1,4 @@
-### Olá, mundo! 👋 Eu sou o Daniel Ferreira dos سانتوس (dos Santos)
+### Olá, mundo! 👋 Eu sou o Daniel Ferreira dos Santos
 
 Estudante de **Ciência da Computação**, apaixonado por tecnologia, hacking ético e desenvolvimento de jogos. Tenho o objetivo de seguir carreira na área de desenvolvimento de software, engenharia reversa e na indústria de jogos.
 

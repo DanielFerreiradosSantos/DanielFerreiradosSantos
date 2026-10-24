@@ -25,8 +25,8 @@ Estudante de **Ciência da Computação**, apaixonado por tecnologia, hacking é
 ---
 
 ### 🎮 Projetos em Destaque
-* **Chatbot Especialista**[cite: 8]: Assistente programado em Python para automação e respostas direcionadas.
-* **Gestor de Estoque**[cite: 8]: Sistema de controle de produtos, entradas, saídas e alertas de estoque baixo.
+* **Chatbot Especialista**: Assistente programado em Python para automação e respostas direcionadas.
+* **Gestor de Estoque**: Sistema de controle de produtos, entradas, saídas e alertas de estoque baixo.
 * **Projetos de Jogos 2D:** Desenvolvendo mecânicas e scripts iniciais focados no motor Godot.
 
 ---
